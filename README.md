@@ -39,7 +39,7 @@ Your **front-end skills** and **design intuition** will be heavily assessed by f
 #### Full-stack Developer:
 Your **front-end skills** will be heavily assessed and basic familiarity in Django, Python & Relational DB is expected. 
 
-- You are expected to build a server side solution using Django and deploy it in your choice of cloud (Heroku, AWS or Azure). You can take the above mocked APIs as s tartm but go ahead and question them to come up your own better version. 
+- You are expected to build a server side solution using Django and deploy it in your choice of cloud (Heroku, AWS or Azure). You can take the above mocked APIs as start & come up your own version of database schema & APIs. 
 - Front end solution should be highly performant and responsive to desktop and tablets without any JS-console errors
 - Since you are not expected to have designing skills, you don't have to worry about too much visually appeal but cover as much as features.  
 - [Bonus] You've managed to write automated tests for the front-end code with your choice of testing framework. 
