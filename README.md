@@ -3,9 +3,11 @@
 Imagine that you are a newspaper supplying company, you purchase bulk of news papers from The Australian, Sydney Morning Herald, The Daily Telegraph etc and distribute them to the local news stands, convenient stores and wherever newsdecks are presented, 
 
 A newsstand looks something like this
+
 ![enter image description here](https://i.imgur.com/6Gy2LfY.jpg)
 
 And here's how a newsdeck would look, where buyers can simply grab a copy and proceed to checkout. 
+
 ![enter image description here](https://i.imgur.com/kRMWP6R.jpg)
 
 For simplicity let us assume newsdeck has 5 rows and 4 columns, and each cell can hold 1 newspaper. In real life a newsdeck will have many rows and arbitrary columns and each cell can hold many newspapers stacked upon. 
