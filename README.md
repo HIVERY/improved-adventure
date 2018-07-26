@@ -21,7 +21,7 @@ Your company has tie-ups with roughly 50,000 newsdecks all over Australia, now y
 - After enough drag-drops the user might be able to preview his changes (before-after) before submitting his choice( no need to implement Submit).
 - If you are applying for the front-end developer roles you can use the below mocked APIs which are self explanatory
  
-		https://secure-cliffs-25767.herokuapp.com/hivery/newspapers
+	https://secure-cliffs-25767.herokuapp.com/hivery/newspapers
         https://secure-cliffs-25767.herokuapp.com/hivery/current_arrangement
         https://secure-cliffs-25767.herokuapp.com/hivery/get_predicted_sales?arrangement=1,1,1,1,2,2,2,3,3,4,4,4,5,8,8,10,11,11,12,12
 
@@ -46,7 +46,7 @@ Your **front-end skills** will be heavily assessed and basic familiarity in Djan
 - [Bonus] You've added more front-end features than requested here. 
 
 #### Submission:
-Kindly share a of working solution **deployed in cloud** of your choice (Heroku, AWS etc) and provide a Github link to your solution so that we can see your code. 
+Kindly share the link of working solution **deployed in cloud** of your choice (Heroku, AWS etc) and provide a Github link to your solution so that we can see your code. 
 
 We thank you in ahead for your enthusiasm and very happy coding. 
 
