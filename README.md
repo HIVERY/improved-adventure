@@ -21,7 +21,7 @@ Your company has tie-ups with roughly 50,000 newsdecks all over Australia, now y
 - After enough drag-drops the user might be able to preview his changes (before-after) before submitting his choice( no need to implement Submit).
 - If you are applying for the front-end developer roles you can use the below mocked APIs which are self explanatory
  
-	https://secure-cliffs-25767.herokuapp.com/hivery/newspapers
+		https://secure-cliffs-25767.herokuapp.com/hivery/newspapers
         https://secure-cliffs-25767.herokuapp.com/hivery/current_arrangement
         https://secure-cliffs-25767.herokuapp.com/hivery/get_predicted_sales?arrangement=1,1,1,1,2,2,2,3,3,4,4,4,5,8,8,10,11,11,12,12
 
