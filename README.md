@@ -37,7 +37,6 @@ If you had applied the role of front-end developer your **front-end skills** and
 - [Bonus] You thought and implemented additional feature like best arrangement so far, option to take/save snapshot of an arrangement while trying many, used browser local-storage in order to cache `predicted_sales` to avoid server communication, highlighting changes, keyboard shortcuts for undo etc
 - [Bonus] You went ahead and used a JS framework (VueJS, Angular or React)
 - [Bonus] You wrote automated tests for the UI code with your choice of testing framework. 
-- [Ultra Bonus] If you are very ambitious, you can fake few APIs & build an UI that addresses 3D arrangement (i.e each cell can be stacked with more than 1 newspaper. You very well know the complexity behind in redering such a newsdeck and conceptualising such idea would require extremly creative skills)
 
 
 #### Full-stack Developer:
